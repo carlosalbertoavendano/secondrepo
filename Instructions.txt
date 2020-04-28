@@ -1,3 +1,5 @@
 This in an instruction file:
 
 In this file you can see the instructions for the site.
+
+On the other hand, refer to the web site for more instructions...
